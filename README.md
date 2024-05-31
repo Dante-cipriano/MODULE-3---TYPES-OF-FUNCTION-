@@ -5,7 +5,9 @@ MyModule3 is a Solidity smart contract that extends the ERC20 token standard pro
 
 # Function
 Transfer: Extends the default transfer function of ERC20 to emit a custom transfer event.
+
 Burn: Allows the owner to burn a specific amount of tokens from their own balance.
+
 Mint: Allows the owner to mint a specific amount of tokens and assign them to a specified address.
 
 # Owner
